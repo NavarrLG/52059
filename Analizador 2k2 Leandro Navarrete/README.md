@@ -4,7 +4,7 @@ Analizador: El objetivo de este analizador es el traducir un programa en ECMAScr
 
 2-Copiar la gramatica de uno de los ejemplos y pegarlo en "input.js", luego volver a guardar para que el programa identifique el cambio
 
-3-Abrir la terminal y escribir el comando "cd ECMAScryptanalizador" para que la terminal se posicione dentro de la carpeta del analizador.
+3-Abrir la terminal y escribir el comando "cd "cd ECMAScryptanalizador" para que la terminal se posicione dentro de la carpeta del analizador.
 
 4-Escribir en la terminal "node index.js", en caso de que no funcione, escribir "node" seguido por el enlace de la direccion de escritorio del archivo index.js por ej. "node "C:\Users\nombreusuario\Analizador 2k2 Leandro Navarrete\ECMAScryptanalizador\index.js""
 
