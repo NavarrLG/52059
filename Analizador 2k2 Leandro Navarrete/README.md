@@ -1,3 +1,5 @@
+Analizador: El objetivo de este analizador es el traducir un programa en ECMAScrypt, pasarlo a Java Scrypt y ejecutarlo
+
 1-Una vez descargado el programa, se recomienda usar Save para asegurarse que todo funcione correctamente.
 
 2-Copiar la gramatica de uno de los ejemplos y pegarlo en "input.js", luego volver a guardar para que el programa identifique el cambio
